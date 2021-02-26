@@ -1,6 +1,8 @@
 name: environment
 
 dependencies:
-  - skikit-image
+  - scikit-image
   - matplotlib
   - numpy
+  - SimpleITK
+  - math
