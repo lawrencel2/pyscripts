@@ -2,12 +2,4 @@ name: environment
 
 dependencies:
   - python
-  - os
-  - numpy
-  - skimage
   - matplotlib
-  - pandas
-  - math
-  - cv2
-  - medpy
-  - SimpleITK
