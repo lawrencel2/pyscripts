@@ -1,0 +1,15 @@
+name: environment
+
+dependencies:
+  - scikit-image
+  - matplotlib
+  - numpy
+  - SimpleITK
+  - itk
+  - mpl_toolkit
+  - scipy
+  - random
+  - tkinter
+  - cv2
+  - ipywidgets
+  - ipython
