@@ -1,8 +1,0 @@
-name: environment
-
-dependencies:
-  - scikit-image
-  - matplotlib
-  - numpy
-  - SimpleITK
-  - itk
