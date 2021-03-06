@@ -7,6 +7,6 @@ dependencies:
   - SimpleITK
   - itk
   - scipy
-  - opencv-python
+  - python3-opencv
   - ipywidgets
   - ipython
