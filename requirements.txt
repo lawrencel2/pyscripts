@@ -1,0 +1,9 @@
+scikit-image
+matplotlib
+numpy
+SimpleITK
+itk
+scipy
+opencv-python-headless
+ipywidgets
+ipython
